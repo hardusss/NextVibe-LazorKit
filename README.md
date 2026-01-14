@@ -109,7 +109,7 @@ root/
 ├── scripts/                  # Utilities (reset-project.js)
 ├── assets/                   # Logo, icons, Lottie animations
 └── app.json, package.json, babel.config.js, expo-env.d.ts, README.md
-
+```
 # 🔮 Future Roadmap: NextVibe x LazorKit
 
 This project is a wallet module designed to integrate with the **NextVibe SocialFi App** (currently in beta). If this Bounty is successful, we plan to fully integrate it into the main application.
