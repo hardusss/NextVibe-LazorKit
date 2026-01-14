@@ -109,3 +109,18 @@ root/
 ├── scripts/                  # Utilities (reset-project.js)
 ├── assets/                   # Logo, icons, Lottie animations
 └── app.json, package.json, babel.config.js, expo-env.d.ts, README.md
+
+# 🔮 Future Roadmap: NextVibe x LazorKit
+
+This project is a wallet module designed to integrate with the **NextVibe SocialFi App** (currently in beta). If this Bounty is successful, we plan to fully integrate it into the main application.
+
+## Next Technical Challenges
+
+- 🔗 **Account Binding**  
+  Linking the anonymous LazorKit wallet address to the user's NextVibe social profile, bridging **Web2 + Web3 identity**.
+
+- 📧 **Social Recovery**  
+  Implementing a recovery mechanism via **Email or Trusted Contacts** (Multi-Factor Recovery), ensuring users never lose access to their funds even if they lose their device.
+
+- 📱 **Native Integration**  
+  Resolving current **native module conflicts** to merge this isolated wallet module back into the main React Native codebase.
