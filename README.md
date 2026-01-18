@@ -225,3 +225,5 @@ This project is a wallet module designed to integrate with the **NextVibe Social
 
 - 📱 **Native Integration**  
   Resolving current **native module conflicts** to merge this isolated wallet module back into the main React Native codebase.
+
+  <p align="center"> Built with ❤️ by the NextVibe Team for the LazorKit Bounty. </p>
