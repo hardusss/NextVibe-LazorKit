@@ -227,3 +227,10 @@ This project is a wallet module designed to integrate with the **NextVibe Social
   Resolving current **native module conflicts** to merge this isolated wallet module back into the main React Native codebase.
 
   <p align="center"> Built with ❤️ by the NextVibe Team for the LazorKit Bounty. </p>
+
+## ⚖️ License & Copyright
+
+This project is submitted for the LazorKit Bounty.
+
+* **Source Code:** The logic, hooks, and LazorKit integration examples are licensed under the **MIT License** — feel free to use them in your own projects!
+* **Assets & Brand:** The **NextVibe** name, logo, and visual identity are proprietary and **Copyright © 2026 NextVibe Team**. They may not be used in commercial projects without permission.
