@@ -26,7 +26,12 @@ This represents a **Real-World Integration** of LazorKit SDK.
 
 </div>
 
-> **Note for Judges:** Since this demo runs on Solana Devnet via the LazorKit Relayer, transaction success may depend on network stability/relayer uptime. If transactions fail, please refer to the video demo above.
+> **Note for Judges:** Since this demo runs on Solana Devnet via the LazorKit Relayer, transaction success may depend on network stability/relayer uptime. If transactions fail, please refer to the video demo above. > 
+> ⚠️ This project was submitted on **January 14th**. The recent commits (January 18th) are **strictly for dependency resolution** to ensure the project runs smoothly for judging.
+>
+> No new business logic or features were added after the deadline.
+> * **Proof of Work:** Please check the [Video Demo timestamp on X](https://x.com/NextVibeWeb3/status/2010439836289929726?s=20) (posted before deadline (11 jan)).
+> * **Reason for Update:** The original submission had `npm` version conflicts that prevented a clean build. We re-initialized the repository structure to fix this for you.
 
 ---
 
