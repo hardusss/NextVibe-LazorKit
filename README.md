@@ -46,7 +46,7 @@ This repository is a standardized Expo module demonstrating the integration.
 
 ### 1. Clone & Install
 ```bash
-git clone [https://github.com/hardusss/NextVibe-LazorKit.git](https://github.com/hardusss/NextVibe-LazorKit.git)
+git clone https://github.com/hardusss/NextVibe-LazorKit.git
 cd NextVibe-LazorKit
 npm install
 ```
