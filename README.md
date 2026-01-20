@@ -233,9 +233,11 @@ This project is a wallet module designed to integrate with the **NextVibe Social
 
   <p align="center"> Built with ❤️ by the NextVibe Team for the LazorKit Bounty. </p>
 
-## ⚖️ License & Copyright
+## ⚖️ License & usage
 
 This project is submitted for the LazorKit Bounty.
 
-* **Source Code:** The logic, hooks, and LazorKit integration examples are licensed under the **MIT License** — feel free to use them in your own projects!
-* **Assets & Brand:** The **NextVibe** name, logo, and visual identity are proprietary and **Copyright © 2026 NextVibe Team**. They may not be used in commercial projects without permission.
+* **Open Source Logic:** The source code, custom hooks (`useTransaction`, `usePortfolio`), and integration logic are licensed under the **MIT License**. You are free to copy and use this code in your own projects.
+* **Proprietary Assets:** The **NextVibe** brand name, logo, icons, and specific UI design implementation are **Copyright © 2026 NextVibe Team** and **NOT** covered by the open-source license.
+    * ✅ **You CAN:** Use the code to build your own wallet.
+    * ❌ **You CANNOT:** Publish a clone of this app using the NextVibe name, logo, or exact design.
